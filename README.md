@@ -149,7 +149,7 @@ Further improvements can include:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/Customer-Churn-Prediction.git
+git clone https://github.com/Shilpachhatani/Bank-Customer-Churn-Prediction.git
 
 # 2. Navigate to the project directory
 cd Customer-Churn-Prediction
@@ -169,5 +169,5 @@ Please open an issue or submit a pull request for suggestions or improvements.
 
 For questions or collaboration:
 
-- GitHub: `AhsanNFt`
-- Email: `syedahsan0991@gmail.com`.
+- GitHub: `Shilpachhatani`
+- Email: `shilpachhatani669@gmail.com`.
